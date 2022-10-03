@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "David",
+      "email": "correo@david.com",
+      "telefono": "552161",
+      "empresa": "UPIICSA",
+      "id": 1
+    },
+    {
+      "nombre": "Fer Plaza",
+      "email": "correo@fer.com",
+      "telefono": "558567",
+      "empresa": "FCA",
+      "id": 2
+    },
+    {
+      "nombre": "Ana Clau García",
+      "email": "correo@clau.com",
+      "telefono": "123456",
+      "empresa": "FCA Honores",
+      "id": 3
+    }
+  ]
+}
